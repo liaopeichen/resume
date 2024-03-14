@@ -6,6 +6,11 @@
   border-radius: 50%;
 }
 
+#contact a {
+  text-decoration: none;
+  color: black;
+}
+
 #footer {
   font-size: smaller;
 }
