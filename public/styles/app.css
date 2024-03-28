@@ -6,6 +6,15 @@
   border-radius: 50%;
 }
 
+#education ul li h3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+#education span {
+  font-size: 1rem;
+}
+
 #contact a {
   text-decoration: none;
   color: black;
